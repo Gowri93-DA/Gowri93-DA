@@ -1,6 +1,6 @@
 🚀 Welcome to My Data Universe 🌌
 
-👋 Hi, I'm **Gowri Abbugeri**
+👋 Hi, I'm **Gowri Abbigeri**
 
 A **Microsoft Certified Power BI Data Analyst (PL-300)** from India, passionate about turning raw data into meaningful insights and building smart, automated analytics solutions.  
 I enjoy working with data, visual storytelling, and continuously learning new tools to solve real-world business problems.
@@ -19,7 +19,7 @@ I enjoy working with data, visual storytelling, and continuously learning new to
 
 🧠 My Current Tech Stack
 
-💻 **Languages**: SQL | DAX | Python (basic)  
+💻 **Languages**: SQL | DAX 
 📊 **Tools & Platforms**: Power BI | Excel | n8n | GitHub  
 🔄 **Data Skills**: Data Cleaning | Data Modeling | Dashboard Design | Automation  
 
@@ -38,6 +38,14 @@ I enjoy working with data, visual storytelling, and continuously learning new to
 ⭐ SQL & query optimization  
 ⭐ Power BI dashboards & storytelling  
 ⭐ Data analytics projects and learning resources  
+
+---
+🏢 Previous Experience  
+⭐ Senior Analyst – IMS at Capgemini India (2016–2018)  
+⭐ Worked with ServiceNow & BMC Remedy, analyzing incident and SLA data  
+⭐ Supported Windows & Linux environments (Dev/QA/Prod)  
+⭐ Gained strong experience in problem solving, root cause analysis, and process automation
+
 
 ---
 
