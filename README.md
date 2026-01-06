@@ -1,5 +1,50 @@
-# 💫 About Me:
-⭐ I’m currently working on  <br>Data analytics and automation projects using SQL, Power BI, and n8n<br><br>⭐ I’m looking to collaborate on  <br>Data analysis projects, dashboards, and analytics automation workflows<br><br>⭐ I’m looking for help with  <br>Improving advanced SQL, real-world business problem solving, and analytics best practices<br><br>⭐ I’m currently learning  <br>Power BI (advanced DAX), PL-300 concepts, and GenAI-powered data automation<br><br>💬 Ask me about  <br>SQL queries, Power BI dashboards, data storytelling, and analytics projects<br><br>⭐ Fun fact  <br>I enjoy writing SQL queries and building dashboards more than scrolling social media<br>
+🚀 Welcome to My Data Universe 🌌
+
+👋 Hi, I'm **Gowri Abbugeri**
+
+A **Microsoft Certified Power BI Data Analyst (PL-300)** from India, passionate about turning raw data into meaningful insights and building smart, automated analytics solutions.  
+I enjoy working with data, visual storytelling, and continuously learning new tools to solve real-world business problems.
+
+---
+
+💼 What I Do
+
+⭐ Build interactive and business-ready **Power BI dashboards**  
+⭐ Write efficient **SQL queries** for data analysis and reporting  
+⭐ Automate analytics workflows using **n8n and AI tools**  
+⭐ Analyze datasets to uncover trends, patterns, and insights  
+⭐ Learn by building real-world analytics projects and challenges  
+
+---
+
+🧠 My Current Tech Stack
+
+💻 **Languages**: SQL | DAX | Python (basic)  
+📊 **Tools & Platforms**: Power BI | Excel | n8n | GitHub  
+🔄 **Data Skills**: Data Cleaning | Data Modeling | Dashboard Design | Automation  
+
+---
+
+🌱 Currently Focused On
+
+⭐ Advanced Power BI & DAX  
+⭐ Analytics automation & GenAI use cases  
+⭐ Building portfolio-ready projects  
+
+---
+
+💬 Ask Me About
+
+⭐ SQL & query optimization  
+⭐ Power BI dashboards & storytelling  
+⭐ Data analytics projects and learning resources  
+
+---
+
+⚡ Fun Fact
+
+⭐ I enjoy writing SQL queries and building dashboards more than scrolling social media 😄
+>
 
 
 ## 🌐 Socials:
