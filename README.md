@@ -1,58 +1,20 @@
-🚀 Welcome to My Data Universe 🌌
+👋 Hi, I’m Gowri Abbigeri
 
-👋 Hi, I'm **Gowri Abbigeri**
+Microsoft Certified Power BI Data Analyst (PL-300) | India
 
-A **Microsoft Certified Power BI Data Analyst (PL-300)** from India, passionate about turning raw data into meaningful insights and building smart, automated analytics solutions.  
-I enjoy working with data, visual storytelling, and continuously learning new tools to solve real-world business problems.
+I build Power BI dashboards, write SQL queries, and turn data into clear, actionable insights. Passionate about analytics, automation, and continuous learning.
 
----
+💼 Skills
 
-💼 What I Do
+Power BI | SQL | DAX | Excel | Data Analysis | Automation (n8n)
 
-⭐ Build interactive and business-ready **Power BI dashboards**  
-⭐ Write efficient **SQL queries** for data analysis and reporting  
-⭐ Automate analytics workflows using **n8n and AI tools**  
-⭐ Analyze datasets to uncover trends, patterns, and insights  
-⭐ Learn by building real-world analytics projects and challenges  
+🏢 Experience
+Senior Analyst – Capgemini (2016–2018)
+Worked on incident & SLA data using ServiceNow and BMC Remedy.
 
----
+⚡ Fun fact: I enjoy SQL more than social media 😄
 
-🧠 My Current Tech Stack
-
-💻 **Languages**: SQL | DAX 
-📊 **Tools & Platforms**: Power BI | Excel | n8n | GitHub  
-🔄 **Data Skills**: Data Cleaning | Data Modeling | Dashboard Design | Automation  
-
----
-
-🌱 Currently Focused On
-
-⭐ Advanced Power BI & DAX  
-⭐ Analytics automation & GenAI use cases  
-⭐ Building portfolio-ready projects  
-
----
-
-💬 Ask Me About
-
-⭐ SQL & query optimization  
-⭐ Power BI dashboards & storytelling  
-⭐ Data analytics projects and learning resources  
-
----
-🏢 Previous Experience  
-⭐ Senior Analyst – IMS at Capgemini India (2016–2018)  
-⭐ Worked with ServiceNow & BMC Remedy, analyzing incident and SLA data  
-⭐ Supported Windows & Linux environments (Dev/QA/Prod)  
-⭐ Gained strong experience in problem solving, root cause analysis, and process automation
-
-
----
-
-⚡ Fun Fact
-
-⭐ I enjoy writing SQL queries and building dashboards more than scrolling social media 😄
->
+📧 Email: gowri.abbigeri@gmail.com
 
 
 ## 🌐 Socials:
